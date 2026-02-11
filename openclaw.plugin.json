@@ -113,7 +113,6 @@
     "properties": {
       "sonarHostUrl": {
         "type": "string",
-        "format": "uri",
         "default": "http://127.0.0.1:9000",
         "description": "URL of the SonarQube server"
       },
